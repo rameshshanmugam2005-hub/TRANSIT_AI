@@ -1,6 +1,14 @@
+
 # 🗺️ Transit AI - Real-Time Telemetry & Congestion Grading Platform
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-00C853?style=for-the-badge)](https://transit-ai-1mot.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rameshshanmugam2005-hub/TRANSIT_AI)
+
 Transit AI is an advanced, enterprise-grade public transit visualization, real-time routing telemetry, and smart ticket validation platform designed to resolve urban commuting inefficiencies. Optimized for dense metropolitan hubs like Chennai, India, the application transforms volatile GPS telemetry and regional road link speeds into highly structured, actionable transit intelligence.
+
+
+PROJECT LINK:https://transit-ai-1mot.onrender.com/
+
 
 ---
 
@@ -94,20 +102,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### Execution
 Start the developmental local proxy and telemetry simulator:
 ```bash
-npm run dev
+npm start
 ```
 The application will launch on **port 3000** automatically. Open [http://localhost:3000](http://localhost:3000) inside your browser.
-
-Do not use VS Code Live Server for this project: it can serve the HTML but it
-cannot run the `/api` routes used for login, tickets, buses, and the AI chat.
-
-### Deploy to Render
-1. Push this project to a GitHub repository and create a **Web Service** in
-   Render (not a Static Site). Render will detect `render.yaml` automatically.
-2. If entering settings manually, use build command `npm run build` and start
-   command `npm start`.
-3. Add `GEMINI_API_KEY` in Render's Environment settings. The app still works
-   with its local chat fallback if this variable is absent.
-4. Deploy and open the Render service URL. Render supplies the `PORT` value;
-   the server uses it automatically.
-"# TRANSIT-AI" 
