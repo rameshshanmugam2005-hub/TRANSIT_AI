@@ -23,6 +23,7 @@ Metropolitan public transit systems face compounding systemic issues that result
 
 ---
 
+
 ## ⚡ 2. The Solution (Transit AI Core Innovations)
 
 Transit AI implements a comprehensive suite of hardware-simulated, software-driven solutions to solve urban transport issues:
