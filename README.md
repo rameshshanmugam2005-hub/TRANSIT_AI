@@ -8,7 +8,9 @@ Transit AI is an advanced, enterprise-grade public transit visualization, real-t
 
 
 PROJECT LINK:https://transit-ai-1mot.onrender.com/
-
+FOR LOGIN PURPOSES:
+USERNAME:admin
+PASSWORD:admin123
 
 ---
 
