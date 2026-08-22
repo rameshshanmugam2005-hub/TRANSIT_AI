@@ -13,10 +13,10 @@ PROJECT LINK:https://transit-ai-1mot.onrender.com/
 FOR LOGIN PURPOSES
 
 
-USERNAME:admin
+USERNAME: admin
 
 
-PASSWORD:admin123
+PASSWORD: admin123
 
 ---
 
