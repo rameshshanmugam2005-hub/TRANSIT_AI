@@ -7,7 +7,7 @@
 Transit AI is an advanced, enterprise-grade public transit visualization, real-time routing telemetry, and smart ticket validation platform designed to resolve urban commuting inefficiencies. Optimized for dense metropolitan hubs like Chennai, India, the application transforms volatile GPS telemetry and regional road link speeds into highly structured, actionable transit intelligence.
 
 
-PROJECT LINK:https://transit-ai-1mot.onrender.com/
+PROJECT LINK:https : //transit-ai-1mot.onrender.com/
 
 
 FOR LOGIN PURPOSES
