@@ -16,7 +16,7 @@ FOR LOGIN PURPOSES
 USERNAME: admin
 
 
-PASSWORD: admin123
+PASSWORD: admin@45
 
 ---
 
